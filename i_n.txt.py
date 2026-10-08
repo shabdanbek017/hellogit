@@ -1,0 +1,6 @@
+print('i')
+print('j')
+print('k')
+print('l')
+print('m')
+print('n')
